@@ -1,4 +1,4 @@
-# University ACE Forum (QuizBee)
+# University ACE Forum (UNIACE)
 
 A full-stack ACE forum for university communities where users can register, log in, ask questions, comment on questions, and manage their profile.
 
