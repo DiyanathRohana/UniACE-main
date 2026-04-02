@@ -11,7 +11,7 @@ A full-stack ACE forum for university communities where users can register, log 
 ## Project Structure
 
 ```text
-QuizBee/
+UNIACE/
 ├── client/
 │   ├── public/
 │   └── src/
